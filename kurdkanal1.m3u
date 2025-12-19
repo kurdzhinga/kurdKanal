@@ -237,10 +237,8 @@ https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1  tvg-name="ZAROK Kurmanji " tvg-logo="https://i.postimg.cc/g0fvZH6Q/Zarok-200.jpg" group-title="KIDS",Zarok Kurmanji
 https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
-
 #EXTINF:-1  tvg-name="GAWHER KIDS" tvg-logo="https://i.postimg.cc/CMnQXcNB/NR1-Kids-200.jpg" group-title="KIDS",NR1 KIDS
 http://142.132.133.190:1935/live/NR1_HD/playlist.m3u8
-
 #EXTINF:-1  tvg-name="NR1 KIDS" tvg-logo="https://i.postimg.cc/gkc2R8s3/Gaeher-Kids.png" group-title="KIDS",GAWHER KIDS
 https://live9.karwan.tv/Gewher-Kids/index.m3u8
 #EXTINF:-1  tvg-name="KIDCO HD" tvg-logo="https://i.postimg.cc/3N29RbSt/Kidco-200.jpg" group-title="KIDS",KIDCO HD
@@ -289,5 +287,3 @@ http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129908
 https://live9.karwan.tv/mumahatv/index.m3u8
 #EXTINF:-1  tvg-name="MMN MOVIES" tvg-logo="https://i.postimg.cc/6qDnghgD/MMN-Movies-200.png" group-title="Movies",MMN Movies
 http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist.m3u8
-
-
