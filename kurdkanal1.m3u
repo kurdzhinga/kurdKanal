@@ -19,8 +19,6 @@ http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
 http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/playlist.m3u8
 #EXTINF:-1  tvg-name="NRT 4" tvg-logo="https://i.postimg.cc/wTy30vRJ/NRT-4-200.jpg" group-title="Religious",NRT 4
 https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
-#EXTINF:-1  tvg-name="Kurdmax Sorani" tvg-logo="https://kurdtvs.net/uploads/kurdmax.png" group-title="Music General Local",Kurdmax Sorani
-https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/playlist.m3u8
 #EXTINF:-1  tvg-name="Rudaw" tvg-logo="https://i.postimg.cc/0NFjy64N/Rudaw-logo-200-Elahmadtv.png" group-title="News",Rudaw
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="K24" tvg-logo="https://i.postimg.cc/Vs7kZLKL/K24-200.jpg" group-title="News",K24
@@ -31,11 +29,15 @@ https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 #EXTINF:-1  tvg-name="Kurdistan tv" tvg-logo="https://i.postimg.cc/7YMmrdT6/Kurdistan-tv-200.png" group-title="General",Kurdistan tv
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1  tvg-name="Kurdmax Sorani" tvg-logo="https://kurdtvs.net/uploads/kurdmax.png" group-title="Music General Local",Kurdmax Sorani
+https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/playlist.m3u8
 #EXTINF:-1  tvg-name="ESRA TV 1" tvg-logo="https://i.postimg.cc/6ptb7tNn/Esra-1-200.png" group-title="Religious",ESRA TV 1
 https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/playlist.m3u8
 #EXTINF:-1  tvg-name="ESRA TV 2" tvg-logo="https://i.postimg.cc/XYLHdmVh/Esra-2-200.png" group-title="Religious",ESRA TV 2
 https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/playlist.m3u8
-#EXTINF:-1  tvg-name="Kurdsatt" tvg-logo="https://i.postimg.cc/90fFXvQh/Kurdsat-200.jpg" group-title="General",Kurdsat
+#EXTINF:-1  tvg-name="IMK" group-title="General",IMK
+http://imkhd.ddns.net:1935/live/imkhd/HawezHD.m3u8
+#EXTINF:-1  tvg-name="Kurdsat" tvg-logo="https://i.postimg.cc/90fFXvQh/Kurdsat-200.jpg" group-title="General",Kurdsat
 https://iko-live.akamaized.net/KurdsatTV/master.m3u8
 #EXTINF:-1  tvg-name="KurdsatNews" tvg-logo="https://i.postimg.cc/GtS34q4s/Kurdsat-News-200.png" group-title="News",Kurdsat News
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
@@ -79,12 +81,20 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 http://eurokurd.mymediapc.net:40/live/Eurokurd/playlist.m3u8
 #EXTINF:-1  tvg-name="Avar" tvg-logo="https://i.postimg.cc/DzvWc0vZ/Avar-200.jpg" group-title="General",Avar
 https://avr.host247.net/live/AvarTv/playlist.m3u8
+#EXTINF:-1  tvg-name="Ranya City" group-title="General",Ranya City ᴴD
+https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8
+#EXTINF:-1  tvg-name="Walla" group-title="General",Walla
+https://live20.bozztv.com/giatv/giatv-halabja88walla/halabja88walla/chunks.m3u8
+#EXTINF:-1  tvg-name="Mahabad" group-title="General",Mahabad
+https://ncdn.telewebion.com/mahabad/live/playlist.m3u8
 #EXTINF:-1  tvg-name="Al-Quran Al-Kareem" tvg-logo="https://i.postimg.cc/8kXBNmcL/Saudi-Quran-200.jpg" group-title="Religious",Al-Quran Al-Kareem
 http://103.126.50.103:2082/live/05343240670yg/9139198/39652.m3u8
 #EXTINF:-1  tvg-name="BANGXWAZEN-BADINAN" tvg-logo="https://i.postimg.cc/59kfqKtX/Bangawaz-Badinan-200.jpg" group-title="Religious",BANGXWAZEN-BADINAN
 http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/chunklist.m3u8
-#EXTINF:-1  tvg-name="Niroj Ayini" tvg-logo="https://i.postimg.cc/FR4YvWSr/Niroj-Ayini.png" group-title="Religious",Niroj Ayini
-http://142.132.133.190:1935/live/niroj_ayini/index.m3u8
+#EXTINF:-1  tvg-name="Kordestan" group-title="General",Kordestan
+https://lenz.splus.ir/PLTV/88888888/224/3221226647/1.m3u8
+#EXTINF:-1  tvg-name="Infinity" group-title="General",Infinity
+https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-name="Arifan Sunat" tvg-logo="https://i.postimg.cc/L6dbpjCy/Arifan-Sunat-200.png" group-title="Religious",Arifan Sunat
 http://lawandnawzad.com:1935/live/ArifanSunat/playlist.m3u8
 #EXTINF:-1  tvg-name="Amozhgary" tvg-logo="https://i.postimg.cc/269NG3rs/Amozhgary-200.png" group-title="Religious",Amozhgary
@@ -171,45 +181,17 @@ http://142.132.133.190:1935/live/Gewher/playlist.m3u8
 https://shawkat-zebari.short.gy/Gewher.m3u8
 #EXTINF:-1  tvg-name="IMKQURAN" tvg-logo="https://i.postimg.cc/5t1JNZsR/IMK-Quran-200.jpg" group-title="Religious",IMKQURAN HD
 http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
-#EXTINF:-1  tvg-name="NUBAR Plus TV " tvg-logo="https://i.postimg.cc/gjdNTLPM/Nubar-200.jpg" group-title="General",NUBAR Plus TV
-http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
-#EXTINF:-1  tvg-name="Infinity" group-title="General",Infinity
-https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="Soz" group-title="General",Soz
-https://live20.bozztv.com/giatv/giatv-sozetvq/sozetvq/chunks.m3u8
-#EXTINF:-1  tvg-name="Ranya City" group-title="General",Ranya City ᴴD
-https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8
-#EXTINF:-1  tvg-name="Kordestan" group-title="General",Kordestan
-https://lenz.splus.ir/PLTV/88888888/224/3221226647/1.m3u8
-#EXTINF:-1  tvg-name="Kurdsat" tvg-logo="https://i.postimg.cc/90fFXvQh/Kurdsat-200.jpg" group-title="General",Kurdsat
-https://iko-live.akamaized.net/KurdsatTV/master_2.m3u8
-#EXTINF:-1  tvg-name="Payam" tvg-logo="https://i.postimg.cc/MpBZG0qv/Payam_tv_200.jpg" group-title="News",Payam
-https://media2.streambrothers.com:1936/8218/8218/HawezHD.m3u8
-#EXTINF:-1  tvg-name="Speda" group-title="General",Speda
-https://live9.karwan.tv/Spedtvyusfstore/index.m3u8
-#EXTINF:-1  tvg-name="Speda Drama" group-title="General",Speda Drama
-https://live9.karwan.tv/Speddeamyusfstore/index.m3u8
-#EXTINF:-1  tvg-name="NRT News" group-title="General",NRT News
-https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1  tvg-name="Red TV" group-title="General",Red TV
 http://avrstream.com:1935/live/REDTV/hawezhd.m3u8
-#EXTINF:-1  tvg-name="IMK" group-title="General",IMK
-http://imkhd.ddns.net:1935/live/imkhd/HawezHD.m3u8
-#EXTINF:-1  tvg-name="Walla" group-title="General",Walla
-https://live20.bozztv.com/giatv/giatv-halabja88walla/halabja88walla/chunks.m3u8
-#EXTINF:-1  tvg-name="Mahabad" group-title="General",Mahabad
-https://ncdn.telewebion.com/mahabad/live/playlist.m3u8
-#EXTINF:-1  tvg-name="Niroj" group-title="General",Niroj
-http://142.132.133.190:1935/live/Niroj_HD/HawezHD.m3u8
+#EXTINF:-1  tvg-name="NUBAR Plus TV " tvg-logo="https://i.postimg.cc/gjdNTLPM/Nubar-200.jpg" group-title="General",NUBAR Plus TV
+http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
+#EXTINF:-1  tvg-name="Soz" group-title="General",Soz
+https://live20.bozztv.com/giatv/giatv-sozetvq/sozetvq/chunks.m3u8
+#EXTINF:-1  tvg-name="Kurdsat" tvg-logo="https://i.postimg.cc/90fFXvQh/Kurdsat-200.jpg" group-title="General",Kurdsat
+https://iko-live.akamaized.net/KurdsatTV/master_2.m3u8
 #EXTINF:-1  tvg-name="Befrin" group-title="General",Befrin
 http://142.132.133.190:1935/live/befrintv/HawezHD.m3u8
-#EXTINF:-1  tvg-name="Zoom" group-title="General",Zoom
-https://live.zoomnews.info/live/Zoom_playlist.m3u8
 #EXTINF:-1  tvg-name="Barin Family" group-title="General",Barin Family
 http://baskhd.ddns.net:40/live/BarinfamilyHD/HawezHD.m3u8
-#EXTINF:-1  tvg-name="NRT News" group-title="General",NRT News
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kurdish/c85b254a5023b74.m3u8
-#EXTINF:-1  tvg-name="zoom News" group-title="General",zoom News
-https://live.zoomnews.info/live/Zoom_playlist.m3u8
-#EXTINF:-1  tvg-name="NRT News" group-title="General",NRT News
-http://prxy-wza-02.iptv-playoutcenter.de/nrt1/nrt1.stream_1/chunklist_w76649285.m3u8
+#EXTINF:-1  tvg-name="Niroj Ayini" tvg-logo="https://i.postimg.cc/FR4YvWSr/Niroj-Ayini.png" group-title="Religious",Niroj Ayini
+http://142.132.133.190:1935/live/niroj_ayini/index.m3u8
