@@ -19,14 +19,14 @@ http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
 http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/playlist.m3u8
 #EXTINF:-1  tvg-name="NRT 4" tvg-logo="https://i.postimg.cc/wTy30vRJ/NRT-4-200.jpg" group-title="Religious",NRT 4
 https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
-#EXTINF:-1  tvg-name="Rudaw" tvg-logo="https://i.postimg.cc/0NFjy64N/Rudaw-logo-200-Elahmadtv.png" group-title="News",Rudaw
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="K24" tvg-logo="https://i.postimg.cc/Vs7kZLKL/K24-200.jpg" group-title="News",K24
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
-#EXTINF:-1  tvg-name="Channel 8" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="News",Channel 8
-https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+#EXTINF:-1  tvg-name="Rudaw" tvg-logo="https://i.postimg.cc/0NFjy64N/Rudaw-logo-200-Elahmadtv.png" group-title="News",Rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="AVA" tvg-logo="https://i.postimg.cc/Y9MCZ4cj/Ava-200.jpg" group-title="News",AVA HD
 https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
+#EXTINF:-1  tvg-name="Channel 8" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="News",Channel 8
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
 #EXTINF:-1  tvg-name="Kurdistan tv" tvg-logo="https://i.postimg.cc/7YMmrdT6/Kurdistan-tv-200.png" group-title="General",Kurdistan tv
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="Kurdmax Sorani" tvg-logo="https://kurdtvs.net/uploads/kurdmax.png" group-title="Music General Local",Kurdmax Sorani
