@@ -175,6 +175,8 @@ http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1  tvg-name="Payam" tvg-logo="https://i.postimg.cc/MpBZG0qv/Payam_tv_200.jpg" group-title="News",Payam
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+#EXTINF:-1  tvg-name="Speda" group-title="News",Speda
+https://speda01.site/upload/images/spedahd.m3u8
 #EXTINF:-1  tvg-name="Gawher" tvg-logo="https://i.postimg.cc/qMm9rmZs/Gawher-200.jpg"  group-title="General",GEWHER
 http://142.132.133.190:1935/live/Gewher/playlist.m3u8
 #EXTINF:-1  tvg-name="Gawher" tvg-logo="https://i.postimg.cc/qMm9rmZs/Gawher-200.jpg"  group-title="General",GEWHER
@@ -195,3 +197,4 @@ http://142.132.133.190:1935/live/befrintv/HawezHD.m3u8
 http://baskhd.ddns.net:40/live/BarinfamilyHD/HawezHD.m3u8
 #EXTINF:-1  tvg-name="Niroj Ayini" tvg-logo="https://i.postimg.cc/FR4YvWSr/Niroj-Ayini.png" group-title="Religious",Niroj Ayini
 http://142.132.133.190:1935/live/niroj_ayini/index.m3u8
+
