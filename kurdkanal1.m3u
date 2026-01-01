@@ -15,6 +15,8 @@ http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
 http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
 #EXTINF:-1  tvg-name="Bangawaz" tvg-logo="https://i.postimg.cc/cJmSKXj4/Bangawaz-200.jpg" group-title="Religious",Bangawaz
 http://bangawaztv.ddns.net:40/live/bangawaztv/chunklist_w920250732.m3u
+#EXTINF:-1  tvg-name="Znar TV" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/znar.png" group-title="General",‌Znar TV
+https://live20.bozztv.com/giatv/giatv-znarAnyTV/znarAnyTV/chunks.m3u8
 #EXTINF:-1  tvg-name="Halabja" tvg-logo="https://i.postimg.cc/L81sTGF3/Halabja-200.jpg" group-title="General",‌Halabja
 http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
 #EXTINF:-1  tvg-name="Ravand" tvg-logo="https://i.postimg.cc/WbLY3KZ0/Ravand-200.png" group-title="General",Ravand
@@ -215,3 +217,4 @@ https://live.channel8.com/Channel8-Kurdish/tracks-a3/index.fmp4.m3u8
 https://live.channel8.com/Channel8-Kurdish/tracks-a4/index.fmp4.m3u8
 #EXTINF:-1  tvg-name="Channel 8" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="News",Channel 8
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+
