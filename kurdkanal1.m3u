@@ -205,7 +205,5 @@ https://vsd115.okcdn.ru/hls/3527542770279_16662.m3u8/sig/kUOoninkanQ/expires/176
 https://vsd115.okcdn.ru/hls/3527542770279_16662.m3u8/sig/kUOoninkanQ/expires/1767369797132/srcIp/185.84.70.100/urls/45.136.21.61/clientType/0/srcAg/CHROME/mid/4728653618791/3527542770279_high/index.m3u8
 #EXTINF:-1  tvg-name="UTV - 240p" tvg-logo="https://utvhawler.net/images/logo.png" group-title="Religious",UTV - 240p
 https://vsd115.okcdn.ru/hls/3527542770279_16660.m3u8/sig/kUOoninkanQ/expires/1767369797132/srcIp/185.84.70.100/urls/45.136.21.61/clientType/0/srcAg/CHROME/mid/4728653618791/3527542770279_lowest/index.m3u8
-#EXTINF:-1  tvg-name="UTV-" tvg-logo="https://kurdtvs.net/uploads/files/19-05-2016-e4029549-utv-kurdtvs.png" group-title="Religious",UTV
+#EXTINF:-1  tvg-name="Mix-kurdy",Mix-kurdy
 http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
-
-
