@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1  tvg-name="UTV - 360p" tvg-logo="https://utvhawler.net/images/logo.png" group-title="Religious",UTV - 360p
+https://vsd115.okcdn.ru/hls/3527542770279_16662.m3u8/sig/kUOoninkanQ/expires/1767369797132/srcIp/185.84.70.100/urls/45.136.21.61/clientType/0/srcAg/CHROME/mid/4728653618791/3527542770279_low/index.m3u8
 #EXTINF:-1  tvg-name="MIHRAB TV" tvg-logo="https://i.postimg.cc/Kz8yttS7/Mihrab-200.png" group-title="Religious",MIHRAB TV
 http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
 #EXTINF:-1  tvg-name="FARMUDA TV" tvg-logo="https://i.postimg.cc/1X0NHMKY/Farmuda-200.jpg" group-title="Religious",FARMUDA TV
@@ -25,8 +27,8 @@ https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="AVA" tvg-logo="https://i.postimg.cc/Y9MCZ4cj/Ava-200.jpg" group-title="News",AVA HD
 https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
-#EXTINF:-1  tvg-name="Channel 8" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="News",Channel 8
-https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
+#EXTINF:-1  tvg-name="Channel 8 - 360p" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="News",Channel 8 - 360p
+https://live.channel8.com/Channel8-Kurdish/tracks-a1/index.fmp4.m3u8
 #EXTINF:-1  tvg-name="Kurdistan tv" tvg-logo="https://i.postimg.cc/7YMmrdT6/Kurdistan-tv-200.png" group-title="General",Kurdistan tv
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1  tvg-name="Kurdmax Sorani" tvg-logo="https://kurdtvs.net/uploads/kurdmax.png" group-title="Music General Local",Kurdmax Sorani
@@ -197,8 +199,6 @@ http://142.132.133.190:1935/live/befrintv/HawezHD.m3u8
 http://baskhd.ddns.net:40/live/BarinfamilyHD/HawezHD.m3u8
 #EXTINF:-1  tvg-name="Niroj Ayini" tvg-logo="https://i.postimg.cc/FR4YvWSr/Niroj-Ayini.png" group-title="Religious",Niroj Ayini
 http://142.132.133.190:1935/live/niroj_ayini/index.m3u8
-#EXTINF:-1  tvg-name="UTV - 360p" tvg-logo="https://utvhawler.net/images/logo.png" group-title="Religious",UTV - 360p
-https://vsd115.okcdn.ru/hls/3527542770279_16662.m3u8/sig/kUOoninkanQ/expires/1767369797132/srcIp/185.84.70.100/urls/45.136.21.61/clientType/0/srcAg/CHROME/mid/4728653618791/3527542770279_low/index.m3u8
 #EXTINF:-1  tvg-name="UTV - 480p" tvg-logo="https://utvhawler.net/images/logo.png" group-title="Religious",UTV - 480p
 https://vsd115.okcdn.ru/hls/3527542770279_16662.m3u8/sig/kUOoninkanQ/expires/1767369797132/srcIp/185.84.70.100/urls/45.136.21.61/clientType/0/srcAg/CHROME/mid/4728653618791/3527542770279_medium/index.m3u8
 #EXTINF:-1  tvg-name="UTV - 720p" tvg-logo="https://utvhawler.net/images/logo.png" group-title="Religious",UTV - 720p
@@ -207,3 +207,11 @@ https://vsd115.okcdn.ru/hls/3527542770279_16662.m3u8/sig/kUOoninkanQ/expires/176
 https://vsd115.okcdn.ru/hls/3527542770279_16660.m3u8/sig/kUOoninkanQ/expires/1767369797132/srcIp/185.84.70.100/urls/45.136.21.61/clientType/0/srcAg/CHROME/mid/4728653618791/3527542770279_lowest/index.m3u8
 #EXTINF:-1  tvg-name="Mix-kurdy",Mix-kurdy
 http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
+#EXTINF:-1  tvg-name="Channel 8 - 480p" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="News",Channel 8 - 480p
+https://live.channel8.com/Channel8-Kurdish/tracks-a2/index.fmp4.m3u8
+#EXTINF:-1  tvg-name="Channel 8 - 720p" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="News",Channel 8 - 720p
+https://live.channel8.com/Channel8-Kurdish/tracks-a3/index.fmp4.m3u8
+#EXTINF:-1  tvg-name="Channel 8 - 1080p" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="News",Channel 8 - 1080p
+https://live.channel8.com/Channel8-Kurdish/tracks-a4/index.fmp4.m3u8
+#EXTINF:-1  tvg-name="Channel 8" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="News",Channel 8
+https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
