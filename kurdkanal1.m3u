@@ -217,4 +217,37 @@ https://live.channel8.com/Channel8-Kurdish/tracks-a3/index.fmp4.m3u8
 https://live.channel8.com/Channel8-Kurdish/tracks-a4/index.fmp4.m3u8
 #EXTINF:-1  tvg-name="Channel 8" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="News",Channel 8
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
-
+#EXTINF:-1  tvg-name="ch1" group-title="News",ch1
+http://109.123.245.192/Spedadrama/index.m3u8
+#EXTINF:-1  tvg-name="ch2" group-title="News",ch2
+http://136.243.155.55:8088/Lawanhd/index.m3u8
+#EXTINF:-1  tvg-name="ch3" group-title="News",ch3
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/kalapurtv/playlist.m3u8
+#EXTINF:-1  tvg-name="ch4" group-title="News",ch4
+http://142.132.133.190:1935/live/Niroj_HD/index.m3u8
+#EXTINF:-1  tvg-name="ch5" group-title="News",ch5
+http://109.123.245.192/Zedtv/index.m3u8
+#EXTINF:-1  tvg-name="ch6" group-title="News",ch6
+http://109.123.245.192/Zedplus/index.m3u8
+#EXTINF:-1  tvg-name="ch7" group-title="News",ch7
+http://109.123.245.192/Newline1/index.m3u8
+#EXTINF:-1  tvg-name="ch8" group-title="News",ch8
+http://109.123.245.192/Newline2/index.m3u8
+#EXTINF:-1  tvg-name="ch9" group-title="News",ch9
+https://live9.karwan.tv/Sroshtyusfstore/index.m3u8
+#EXTINF:-1  tvg-name="ch10" group-title="News",ch10
+https://live20.bozztv.com/giatv/giatv-DniaTV/DniaTV/playlist.m3u8
+#EXTINF:-1  tvg-name="ch11" group-title="News",ch11
+https://media.streambrothers.com:19360/8116/8116.m3u8
+#EXTINF:-1  tvg-name="ch12" group-title="News",ch12
+https://v.redd.it/5eynmp69gj6f1/HLS_AUDIO_128.m3u8
+#EXTINF:-1  tvg-name="ch13" group-title="News",ch13
+https://v.redd.it/5eynmp69gj6f1/HLS_720.m3u8
+#EXTINF:-1  tvg-name="ch14" group-title="News",ch14
+https://v.redd.it/5eynmp69gj6f1/HLSPlaylist.m3u8
+#EXTINF:-1  tvg-name="ch15" group-title="News",ch15
+https://live9.karwan.tv/nigafamleytvyusfstore/index.m3u8
+#EXTINF:-1  tvg-name="ch16" group-title="News",ch16
+https://live9.karwan.tv/Asterafmaley/index.m3u8
+#EXTINF:-1  tvg-name="speda" group-title="News",speda
+http://109.123.245.192/Spedatv/index.m3u8
