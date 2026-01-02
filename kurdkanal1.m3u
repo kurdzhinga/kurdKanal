@@ -219,6 +219,10 @@ https://live.channel8.com/Channel8-Kurdish/tracks-a3/index.fmp4.m3u8
 https://live.channel8.com/Channel8-Kurdish/tracks-a4/index.fmp4.m3u8
 #EXTINF:-1  tvg-name="speda" tvg-logo="https://i.postimg.cc/9mK37pfk/SP.png" group-title="News",speda
 http://109.123.245.192/Spedadrama/index.m3u8
+#EXTINF:0 CUID="8552" tvg-name="SPEDA" tvg-logo="https://i.postimg.cc/9mK37pfk/SP.png" group-title="KURDISH ",SPEDA
+http://109.123.245.192/Spedatv/index.m3u8
+#EXTINF:0 CUID="8553" tvg-name="Speda Drama" tvg-logo="https://i.postimg.cc/XnPv6nwr/spda-drama.png" group-title="KURDISH ",Speda Drama
+http://109.123.245.192/Spedadrama/index.m3u8
 #EXTINF:-1  tvg-name="ch2" group-title="News",ch2
 http://136.243.155.55:8088/Lawanhd/index.m3u8
 #EXTINF:-1  tvg-name="ch3" group-title="News",ch3
@@ -287,10 +291,6 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/graryanfm/chunks.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/kalapurtv/playlist.m3u8
 #EXTINF:0 CUID="8551" tvg-name="IMK HD" tvg-logo="https://i.postimg.cc/JRsFBRdb/IMK.png" group-title="KURDISH ",IMK HD
 http://imkhd.ddns.net:1935/live/imkhd/HawezHD.m3u8
-#EXTINF:0 CUID="8552" tvg-name="SPEDA" tvg-logo="https://i.postimg.cc/9mK37pfk/SP.png" group-title="KURDISH ",SPEDA
-http://109.123.245.192/Spedatv/index.m3u8
-#EXTINF:0 CUID="8553" tvg-name="Speda Drama" tvg-logo="https://i.postimg.cc/XnPv6nwr/spda-drama.png" group-title="KURDISH ",Speda Drama
-http://109.123.245.192/Spedadrama/index.m3u8
 #EXTINF:0 CUID="8554" tvg-name="ZEVER" tvg-logo="https://i.postimg.cc/Td0jMV4W/ZEVER.png" group-title="KURDISH ",ZEVER
 http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8
 #EXTINF:0 CUID="8558" tvg-name="tvkurdi" group-title="KURDISH ",tvkurdi
@@ -343,5 +343,6 @@ https://next.badinan.xyz/nexttv/FHD/chunklist_w2146685998.m3u8
 http://51.89.152.180/live/BahraHD/chunks.m3u8
 #EXTINF:0 CUID="8650" tvg-name="PESHMARGA TV" tvg-logo="https://i.postimg.cc/81wsh67y/pe-1.png" group-title="KURDISH ",PESHMARGA TV
 http://142.132.133.190:1935/live/peshmerge/index.m3u8
+
 
 
