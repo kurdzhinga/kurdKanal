@@ -273,8 +273,6 @@ http://k21hd.mypsx.net:40/live/KANALI/playlist.m3u8
 http://avrstream.com:1935/live/KORAJARTV/playlist.m3u8
 #EXTINF:-1 tvg-name="DENGE ZELAL TV" tvg-logo="https://play-lh.googleusercontent.com/jbAHyIv4cEzChzXHBEFcYZ-Zt9APytMoAslTKysNz-I_fVz43VOADziX_nrUbyY7Q_o" group-title="KURDISH ",DENGE ZELAL TV
 https://cdn-dengezelaltv.yayin.com.tr/dengezelaltv/dengezelaltv/playlist.m3u8
-#EXTINF:-1 tvg-name="KURDMAX" tvg-logo="https://i.postimg.cc/zz8cPrbM/kurdmax.png" group-title="KURDISH ",KURDMAX
-https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/chunklist_w1650756524.m3u8
 #EXTINF:-1 tvg-name="NIROJ HD" tvg-logo="https://i.postimg.cc/x9d9M9ZC/NIROJ.png" group-title="KURDISH ",NIROJ HD
 http://142.132.133.190:1935/live/Niroj_HD/index.m3u8
 #EXTINF:-1 tvg-name="NR1KURD" tvg-logo="https://i.postimg.cc/2YXTDYhD/NR1.png" group-title="KURDISH ",NR1KURD
@@ -307,6 +305,8 @@ http://arabitv5.com:8000/baseeeeeeemhh5/8uuMt7qa7eAF/33888
 https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/chunklist_w1862836536.m3u8
 #EXTINF:-1 tvg-name="KURDMAX کرمانجی" tvg-logo="https://i.postimg.cc/2zM3CTcM/KURDMAX.png" group-title="KURDISH ",KURDMAX کرمانجی
 https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/chunklist_w600589281.m3u8
+#EXTINF:-1 tvg-name="KURDMAX" tvg-logo="https://i.postimg.cc/zz8cPrbM/kurdmax.png" group-title="KURDISH ",KURDMAX
+https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/chunklist_w1650756524.m3u8
 #EXTINF:-1 tvg-name="tvkurdi" group-title="KURDISH ",tvkurdi
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvkurdi/chunks.m3u8
 #EXTINF:-1  tvg-name="Channel 8 - 360p" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="News",Channel 8 - 360p
@@ -325,3 +325,4 @@ https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 #EXTINF:-1  tvg-name="Speda" group-title="News",Speda
 https://speda01.site/upload/images/spedahd.m3u8
+
