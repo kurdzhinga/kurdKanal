@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-name="UTV - 360p" tvg-logo="https://utvhawler.net/images/logo.png" group-title="Religious",UTV - 360p
-https://vsd115.okcdn.ru/hls/3527542770279.m3u8/sig/7l9QZUGJyGk/expires/1767865374154/srcIp/185.240.17.182/urls/45.136.21.61/clientType/0/srcAg/CHROME/mid/4728653618791/3527542770279_high/index.m3u8
-#EXTINF:-1 tvg-name="Speda Drama" tvg-logo="https://i.postimg.cc/XnPv6nwr/spda-drama.png" group-title="KURDISH ",Speda Drama
+https://ok.ru/video/4728653618791#https://vsd74.okcdn.ru/hls/3527542770279_40897.m3u8/sig/3GwK09jOYXo/expires/1767865848695/srcIp/185.240.17.182/urls/185.226.53.66/clientType/0/srcAg/CHROME/mid/4728653618791/3527542770279_high/index.m3u8#EXTINF:-1 tvg-name="Speda Drama" tvg-logo="https://i.postimg.cc/XnPv6nwr/spda-drama.png" group-title="KURDISH ",Speda Drama
 http://109.123.245.192/Spedadrama/index.m3u8
 #EXTINF:-1  tvg-name="MIHRAB TV" tvg-logo="https://i.postimg.cc/Kz8yttS7/Mihrab-200.png" group-title="Religious",MIHRAB TV
 http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
@@ -317,6 +316,7 @@ https://shawkat-zebari.short.gy/Gewher.m3u8
 https://iko-live.akamaized.net/KurdsatTV/master.m3u8
 #EXTINF:-1  tvg-name="KURD CHANNEL" tvg-logo="https://i.postimg.cc/26ztX34j/Kurd-channel-200.png" group-title="General",KURD CHANNEL
 https://iko-live.akamaized.net/kurdhd/master.m3u8
+
 
 
 
