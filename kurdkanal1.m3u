@@ -1,155 +1,155 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="UTV" tvg-logo="https://utvhawler.net/images/logo.png" group-title="Religious",UTV
+#EXTINF:-1  tvg-name="UTV" tvg-logo="https://utvhawler.net/images/logo.png" group-title="Kurdi",UTV
 https://vsd115.okcdn.ru/hls/3527542770279.m3u8/sig/7l9QZUGJyGk/expires/1767865374154/srcIp/185.240.17.182/urls/45.136.21.61/clientType/0/srcAg/CHROME/mid/4728653618791/3527542770279_high/index.m3u8
-#EXTINF:-1 tvg-name="Speda Drama" tvg-logo="https://i.postimg.cc/XnPv6nwr/spda-drama.png" group-title="KURDISH ",Speda Drama
+#EXTINF:-1 tvg-name="Speda Drama" tvg-logo="https://i.postimg.cc/XnPv6nwr/spda-drama.png" group-title="Kurdi",Speda Drama
 http://109.123.245.192/Spedadrama/index.m3u8
-#EXTINF:-1  tvg-name="MIHRAB TV" tvg-logo="https://i.postimg.cc/Kz8yttS7/Mihrab-200.png" group-title="Religious",MIHRAB TV
+#EXTINF:-1  tvg-name="MIHRAB TV" tvg-logo="https://i.postimg.cc/Kz8yttS7/Mihrab-200.png" group-title="Kurdi",MIHRAB TV
 http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
-#EXTINF:-1  tvg-name="FARMUDA TV" tvg-logo="https://i.postimg.cc/1X0NHMKY/Farmuda-200.jpg" group-title="Religious",FARMUDA TV
+#EXTINF:-1  tvg-name="FARMUDA TV" tvg-logo="https://i.postimg.cc/1X0NHMKY/Farmuda-200.jpg" group-title="Kurdi",FARMUDA TV
 http://avrstream.com:1935/live/FarmodaTV/playlist.m3u8
-#EXTINF:-1  tvg-name="EMAN TV" tvg-logo="https://i.postimg.cc/L8jRSH3P/Eman-tv-200.jpg" group-title="Religious",EMAN TV
+#EXTINF:-1  tvg-name="EMAN TV" tvg-logo="https://i.postimg.cc/L8jRSH3P/Eman-tv-200.jpg" group-title="Kurdi",EMAN TV
 http://avrstream.com:1935/live/emantv/playlist.m3u8
-#EXTINF:-1  tvg-name="Ashti" tvg-logo="https://i.postimg.cc/D0C0q7M0/Ashti-200.png" group-title="Religious",Ashti
+#EXTINF:-1  tvg-name="Ashti" tvg-logo="https://i.postimg.cc/D0C0q7M0/Ashti-200.png" group-title="Kurdi",Ashti
 http://avrstream.com:1935/live/AshtiTV/media_w1732842089.m3u8
-#EXTINF:-1  tvg-name="SADA TV" tvg-logo="https://i.postimg.cc/2yCLQcjc/Sada-200.jpg" group-title="Religious",SADA TV
+#EXTINF:-1  tvg-name="SADA TV" tvg-logo="https://i.postimg.cc/2yCLQcjc/Sada-200.jpg" group-title="Kurdi",SADA TV
 http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
-#EXTINF:-1  tvg-name="BASK HD" tvg-logo="https://i.postimg.cc/26s2Cfwq/Bask-200-new.jpg" group-title="Religious",BASK HD
+#EXTINF:-1  tvg-name="BASK HD" tvg-logo="https://i.postimg.cc/26s2Cfwq/Bask-200-new.jpg" group-title="Kurdi",BASK HD
 http://baskhd.ddns.net:40/live/baskhd/playlist.m3u8
-#EXTINF:-1  tvg-name="Bangawaz" tvg-logo="https://i.postimg.cc/cJmSKXj4/Bangawaz-200.jpg" group-title="Religious",Bangawaz
+#EXTINF:-1  tvg-name="Bangawaz" tvg-logo="https://i.postimg.cc/cJmSKXj4/Bangawaz-200.jpg" group-title="Kurdi",Bangawaz
 http://bangawaztv.ddns.net:40/live/bangawaztv/chunklist_w920250732.m3u
-#EXTINF:-1  tvg-name="Bangawaaz" tvg-logo="https://i.postimg.cc/cJmSKXj4/Bangawaz-200.jpg" group-title="Religious",Bangawaz
+#EXTINF:-1  tvg-name="Bangawaaz" tvg-logo="https://i.postimg.cc/cJmSKXj4/Bangawaz-200.jpg" group-title="Kurdi",Bangawaz
 http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
-#EXTINF:-1  tvg-name="Znar TV" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/znar.png" group-title="General",‌Znar TV
+#EXTINF:-1  tvg-name="Znar TV" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/znar.png" group-title="Kurdi",‌Znar TV
 https://live20.bozztv.com/giatv/giatv-znarAnyTV/znarAnyTV/chunks.m3u8
-#EXTINF:-1  tvg-name="Halabja" tvg-logo="https://i.postimg.cc/L81sTGF3/Halabja-200.jpg" group-title="General",‌Halabja
+#EXTINF:-1  tvg-name="Halabja" tvg-logo="https://i.postimg.cc/L81sTGF3/Halabja-200.jpg" group-title="Kurdi",‌Halabja
 http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
-#EXTINF:-1  tvg-name="Ravand" tvg-logo="https://i.postimg.cc/WbLY3KZ0/Ravand-200.png" group-title="General",Ravand
+#EXTINF:-1  tvg-name="Ravand" tvg-logo="https://i.postimg.cc/WbLY3KZ0/Ravand-200.png" group-title="Kurdi",Ravand
 http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/playlist.m3u8
-#EXTINF:-1 tvg-name="ZED TV" tvg-logo="https://i.postimg.cc/bz5zzyXF/ZED.png" group-title="KURDISH ",ZED TV
+#EXTINF:-1 tvg-name="ZED TV" tvg-logo="https://i.postimg.cc/bz5zzyXF/ZED.png" group-title="Kurdi",ZED TV
 http://109.123.245.192/Zedtv/index.m3u8
-#EXTINF:-1 tvg-name="ZED TV PLUS" tvg-logo="https://i.postimg.cc/9c7dVy3G/zedplus.png" group-title="KURDISH ",ZED TV PLUS
+#EXTINF:-1 tvg-name="ZED TV PLUS" tvg-logo="https://i.postimg.cc/9c7dVy3G/zedplus.png" group-title="Kurdi",ZED TV PLUS
 http://109.123.245.192/Zedplus/index.m3u8
-#EXTINF:-1 tvg-name="NEW LINE 1" tvg-logo="https://i.postimg.cc/RChphrjs/new1.png" group-title="KURDISH ",NEW LINE 1
+#EXTINF:-1 tvg-name="NEW LINE 1" tvg-logo="https://i.postimg.cc/RChphrjs/new1.png" group-title="Kurdi",NEW LINE 1
 http://109.123.245.192/Newline1/index.m3u8
-#EXTINF:-1 tvg-name="NEW LINE 2" tvg-logo="https://i.postimg.cc/pWq1PV15/new2.png" group-title="KURDISH ",NEW LINE 2
+#EXTINF:-1 tvg-name="NEW LINE 2" tvg-logo="https://i.postimg.cc/pWq1PV15/new2.png" group-title="Kurdi",NEW LINE 2
 http://109.123.245.192/Newline2/index.m3u8
-#EXTINF:-1  tvg-name="NRT 4" tvg-logo="https://i.postimg.cc/wTy30vRJ/NRT-4-200.jpg" group-title="Religious",NRT 4
+#EXTINF:-1  tvg-name="NRT 4" tvg-logo="https://i.postimg.cc/wTy30vRJ/NRT-4-200.jpg" group-title="Kurdi",NRT 4
 https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
-#EXTINF:-1  tvg-name="K24" tvg-logo="https://i.postimg.cc/Vs7kZLKL/K24-200.jpg" group-title="News",K24
+#EXTINF:-1  tvg-name="K24" tvg-logo="https://i.postimg.cc/Vs7kZLKL/K24-200.jpg" group-title="Kurdi",K24
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
-#EXTINF:-1  tvg-name="Rudaw" tvg-logo="https://i.postimg.cc/0NFjy64N/Rudaw-logo-200-Elahmadtv.png" group-title="News",Rudaw
+#EXTINF:-1  tvg-name="Rudaw" tvg-logo="https://i.postimg.cc/0NFjy64N/Rudaw-logo-200-Elahmadtv.png" group-title="Kurdi",Rudaw
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="AVA" tvg-logo="https://i.postimg.cc/Y9MCZ4cj/Ava-200.jpg" group-title="News",AVA HD
+#EXTINF:-1  tvg-name="AVA" tvg-logo="https://i.postimg.cc/Y9MCZ4cj/Ava-200.jpg" group-title="Kurdi",AVA HD
 https://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
-#EXTINF:-1  tvg-name="Channel 8" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="News",Channel 8
+#EXTINF:-1  tvg-name="Channel 8" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="Kurdi",Channel 8
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
-#EXTINF:-1  tvg-name="Kurdistan tv" tvg-logo="https://i.postimg.cc/7YMmrdT6/Kurdistan-tv-200.png" group-title="General",Kurdistan tv
+#EXTINF:-1  tvg-name="Kurdistan tv" tvg-logo="https://i.postimg.cc/7YMmrdT6/Kurdistan-tv-200.png" group-title="Kurdi",Kurdistan tv
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="Kurdmax Sorani" tvg-logo="https://kurdtvs.net/uploads/kurdmax.png" group-title="Music General Local",Kurdmax Sorani
+#EXTINF:-1  tvg-name="Kurdmax Sorani" tvg-logo="https://kurdtvs.net/uploads/kurdmax.png" group-title="Kurdi",Kurdmax Sorani
 https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/playlist.m3u8
-#EXTINF:-1  tvg-name="ESRA TV 1" tvg-logo="https://i.postimg.cc/6ptb7tNn/Esra-1-200.png" group-title="Religious",ESRA TV 1
+#EXTINF:-1  tvg-name="ESRA TV 1" tvg-logo="https://i.postimg.cc/6ptb7tNn/Esra-1-200.png" group-title="Kurdi",ESRA TV 1
 https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/playlist.m3u8
-#EXTINF:-1  tvg-name="ESRA TV 2" tvg-logo="https://i.postimg.cc/XYLHdmVh/Esra-2-200.png" group-title="Religious",ESRA TV 2
+#EXTINF:-1  tvg-name="ESRA TV 2" tvg-logo="https://i.postimg.cc/XYLHdmVh/Esra-2-200.png" group-title="Kurdi",ESRA TV 2
 https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/playlist.m3u8
-#EXTINF:-1 tvg-name="IMK HD" tvg-logo="https://i.postimg.cc/JRsFBRdb/IMK.png" group-title="KURDISH ",IMK HD
+#EXTINF:-1 tvg-name="IMK HD" tvg-logo="https://i.postimg.cc/JRsFBRdb/IMK.png" group-title="Kurdi",IMK HD
 http://imkhd.ddns.net:1935/live/imkhd/HawezHD.m3u8
-#EXTINF:-1  tvg-name="Kurdsat" tvg-logo="https://i.postimg.cc/90fFXvQh/Kurdsat-200.jpg" group-title="General",Kurdsat
+#EXTINF:-1  tvg-name="Kurdsat" tvg-logo="https://i.postimg.cc/90fFXvQh/Kurdsat-200.jpg" group-title="Kurdi",Kurdsat
 https://iko-live.akamaized.net/KurdsatTV/master_2.m3u8
-#EXTINF:-1  tvg-name="KurdsatNews" tvg-logo="https://i.postimg.cc/GtS34q4s/Kurdsat-News-200.png" group-title="News",Kurdsat News
-https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
-#EXTINF:-1  tvg-name="Gali Kurdistan" tvg-logo="https://i.postimg.cc/KzJ0dq9w/GK-200.jpg" group-title="General",Gali Kurdistan
+#EXTINF:-1  tvg-name="KurdsatKurdi" tvg-logo="https://i.postimg.cc/GtS34q4s/Kurdsat-Kurdi-200.png" group-title="Kurdi",Kurdsat Kurdi
+https://hlspackager.akamaized.net/live/DB/KURDSAT_Kurdi/HLS/KURDSAT_Kurdi.m3u8
+#EXTINF:-1  tvg-name="Gali Kurdistan" tvg-logo="https://i.postimg.cc/KzJ0dq9w/GK-200.jpg" group-title="Kurdi",Gali Kurdistan
 https://live.host247.net/gk/gksat/chunklist_w1578718171.m3u8
-#EXTINF:-1  tvg-name="KIRKUK TV" tvg-logo="https://i.postimg.cc/GtfTwdPV/Kirkuk-200.jpg" group-title="General",KIRKUK TV
+#EXTINF:-1  tvg-name="KIRKUK TV" tvg-logo="https://i.postimg.cc/GtfTwdPV/Kirkuk-200.jpg" group-title="Kurdi",KIRKUK TV
 https://live.kirkuklive.live/hls/stream/index.m3u8
-#EXTINF:-1  tvg-name="MMN NEWS" tvg-logo="https://i.postimg.cc/sDjskD4L/MMN-News-200.png" group-title="News",MMN NEWS
-http://mmn.mypsx.net:1935/live/mmnhdnews/playlist.m3u8
-#EXTINF:-1  tvg-name="Welat" tvg-logo="https://i.postimg.cc/0QdtLRFf/Welat-200.png" group-title="News",Welat
+#EXTINF:-1  tvg-name="MMN Kurdi" tvg-logo="https://i.postimg.cc/sDjskD4L/MMN-Kurdi-200.png" group-title="Kurdi",MMN Kurdi
+http://mmn.mypsx.net:1935/live/mmnhdKurdi/playlist.m3u8
+#EXTINF:-1  tvg-name="Welat" tvg-logo="https://i.postimg.cc/0QdtLRFf/Welat-200.png" group-title="Kurdi",Welat
 http://stream.welattv.net:1935/welat/tv/.m3u8
-#EXTINF:-1  tvg-name="Duhok TV" tvg-logo="https://i.postimg.cc/ZK4Dw42q/Duhok-tv-200.jpg" group-title="General",Duhok TV
+#EXTINF:-1  tvg-name="Duhok TV" tvg-logo="https://i.postimg.cc/ZK4Dw42q/Duhok-tv-200.jpg" group-title="Kurdi",Duhok TV
 http://duhok.badinan.xyz:1935/live/DuhokTV/playlist.m3u8
-#EXTINF:-1  tvg-name="WAAR" tvg-logo="https://i.postimg.cc/8CfS5HB9/waar-200.jpg" group-title="General",WAAR
+#EXTINF:-1  tvg-name="WAAR" tvg-logo="https://i.postimg.cc/8CfS5HB9/waar-200.jpg" group-title="Kurdi",WAAR
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
-#EXTINF:-1  tvg-name="NUBAR TV " tvg-logo="https://i.postimg.cc/gjdNTLPM/Nubar-200.jpg" group-title="General",NUBAR TV
+#EXTINF:-1  tvg-name="NUBAR TV " tvg-logo="https://i.postimg.cc/gjdNTLPM/Nubar-200.jpg" group-title="Kurdi",NUBAR TV
 http://stream.nubar.tv:1935/private/NUBARtv/playlist.m3u8
-#EXTINF:-1  tvg-name="Derin" tvg-logo="https://i.postimg.cc/85mjzRdh/Derin-200.jpg" group-title="General",Derin
+#EXTINF:-1  tvg-name="Derin" tvg-logo="https://i.postimg.cc/85mjzRdh/Derin-200.jpg" group-title="Kurdi",Derin
 http://baskhd.ddns.net:40/live/Derin/playlist.m3u8
-#EXTINF:-1  tvg-name="SHNA TV" tvg-logo="https://i.postimg.cc/26b0p54R/Shna-tv-200.jpg" group-title="General",SHNA TV
+#EXTINF:-1  tvg-name="SHNA TV" tvg-logo="https://i.postimg.cc/26b0p54R/Shna-tv-200.jpg" group-title="Kurdi",SHNA TV
 http://shnatv.ddns.net:1935/live/shnatv/playlist.m3u8
-#EXTINF:-1  tvg-name="SHAR TV" tvg-logo="https://i.postimg.cc/t4sZNVyj/Shar-tv-200.jpg" group-title="General",SHAR TV
+#EXTINF:-1  tvg-name="SHAR TV" tvg-logo="https://i.postimg.cc/t4sZNVyj/Shar-tv-200.jpg" group-title="Kurdi",SHAR TV
 http://avrstream.com:1935/live/SHARTV/playlist.m3u8
-#EXTINF:-1  tvg-name="Soran Entertainment" tvg-logo="https://i.postimg.cc/hvvhPYMx/Soran-Entertaintment-200.jpg" group-title="General",Soran Entertainment
+#EXTINF:-1  tvg-name="Soran Entertainment" tvg-logo="https://i.postimg.cc/hvvhPYMx/Soran-Entertaintment-200.jpg" group-title="Kurdi",Soran Entertainment
 http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
-#EXTINF:-1  tvg-name="Ranya City" group-title="General",Ranya City ᴴD
+#EXTINF:-1  tvg-name="Ranya City" group-title="Kurdi",Ranya City ᴴD
 https://avr.host247.net/Ranya/RanyaCity/playlist.m3u8
-#EXTINF:-1  tvg-name="KHAK TV" tvg-logo="https://i.postimg.cc/3Jd6JrTN/xak-tv_200.png" group-title="General",KHAK TV
+#EXTINF:-1  tvg-name="KHAK TV" tvg-logo="https://i.postimg.cc/3Jd6JrTN/xak-tv_200.png" group-title="Kurdi",KHAK TV
 http://bblserver.ddns.net:1935/stream/khakhd/playlist.m3u8
-#EXTINF:-1  tvg-name="Qellat" tvg-logo="https://i.postimg.cc/43FWFcHQ/Qellat-200.jpg" group-title="General",Qellat
+#EXTINF:-1  tvg-name="Qellat" tvg-logo="https://i.postimg.cc/43FWFcHQ/Qellat-200.jpg" group-title="Kurdi",Qellat
 http://213.32.255.86:1935/live/Qellat_tv/playlist.m3u8
-#EXTINF:-1  tvg-name="ALA HD" tvg-logo="https://i.postimg.cc/Kv10n948/Ala-HD-200.png" group-title="General",ALA HD
+#EXTINF:-1  tvg-name="ALA HD" tvg-logo="https://i.postimg.cc/Kv10n948/Ala-HD-200.png" group-title="Kurdi",ALA HD
 http://avrstream.com:1935/live/ala-hd/playlist.m3u8
-#EXTINF:-1  tvg-name="Bnar HD" tvg-logo="https://i.postimg.cc/bYV6g5S2/BNARHD-200.png" group-title="General",Bnar HD
+#EXTINF:-1  tvg-name="Bnar HD" tvg-logo="https://i.postimg.cc/bYV6g5S2/BNARHD-200.png" group-title="Kurdi",Bnar HD
 http://baskhd.ddns.net:40/live/bnar4k/playlist.m3u8
-#EXTINF:-1  tvg-name="TRT Kurdi" tvg-logo="https://i.postimg.cc/SKy2w03W/TRT-Kurdi-200.png" group-title="General",TRT Kurdi
+#EXTINF:-1  tvg-name="TRT Kurdi" tvg-logo="https://i.postimg.cc/SKy2w03W/TRT-Kurdi-200.png" group-title="Kurdi",TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1  tvg-name="EURO kurd" tvg-logo="https://i.postimg.cc/xj6X8Yjq/Eru-Kurd-200.png" group-title="General",EURO kurd
+#EXTINF:-1  tvg-name="EURO kurd" tvg-logo="https://i.postimg.cc/xj6X8Yjq/Eru-Kurd-200.png" group-title="Kurdi",EURO kurd
 http://eurokurd.mymediapc.net:40/live/Eurokurd/playlist.m3u8
-#EXTINF:-1  tvg-name="Avar" tvg-logo="https://i.postimg.cc/DzvWc0vZ/Avar-200.jpg" group-title="General",Avar
+#EXTINF:-1  tvg-name="Avar" tvg-logo="https://i.postimg.cc/DzvWc0vZ/Avar-200.jpg" group-title="Kurdi",Avar
 https://avr.host247.net/live/AvarTv/playlist.m3u8
-#EXTINF:-1 tvg-name="AVAR TV" tvg-logo="https://i.postimg.cc/PHF0gvx8/AVAR.png" group-title="KURDISH ",AVAR TV
+#EXTINF:-1 tvg-name="AVAR TV" tvg-logo="https://i.postimg.cc/PHF0gvx8/AVAR.png" group-title="Kurdi",AVAR TV
 http://avrstream.com:1935/live/AvarTv/playlist.m3u8
-#EXTINF:-1 tvg-name="Wala tv" tvg-logo="https://i.postimg.cc/KZ9gmYdR/walla.png" group-title="KURDISH ",Wala tv
+#EXTINF:-1 tvg-name="Wala tv" tvg-logo="https://i.postimg.cc/KZ9gmYdR/walla.png" group-title="Kurdi",Wala tv
 https://live20.bozztv.com/giatv/giatv-halabja88walla/halabja88walla/chunks.m3u8
-#EXTINF:-1  tvg-name="Mahabad" group-title="General",Mahabad
+#EXTINF:-1  tvg-name="Mahabad" group-title="Kurdi",Mahabad
 https://ncdn.telewebion.com/mahabad/live/playlist.m3u8
-#EXTINF:-1  tvg-name="Al-Quran Al-Kareem" tvg-logo="https://i.postimg.cc/8kXBNmcL/Saudi-Quran-200.jpg" group-title="Religious",Al-Quran Al-Kareem
+#EXTINF:-1  tvg-name="Al-Quran Al-Kareem" tvg-logo="https://i.postimg.cc/8kXBNmcL/Saudi-Quran-200.jpg" group-title="Kurdi",Al-Quran Al-Kareem
 http://103.126.50.103:2082/live/05343240670yg/9139198/39652.m3u8
-#EXTINF:-1  tvg-name="BANGXWAZEN-BADINAN" tvg-logo="https://i.postimg.cc/59kfqKtX/Bangawaz-Badinan-200.jpg" group-title="Religious",BANGXWAZEN-BADINAN
+#EXTINF:-1  tvg-name="BANGXWAZEN-BADINAN" tvg-logo="https://i.postimg.cc/59kfqKtX/Bangawaz-Badinan-200.jpg" group-title="Kurdi",BANGXWAZEN-BADINAN
 http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/chunklist.m3u8
-#EXTINF:-1  tvg-name="Kordestan" group-title="General",Kordestan
+#EXTINF:-1  tvg-name="Kordestan" group-title="Kurdi",Kordestan
 https://lenz.splus.ir/PLTV/88888888/224/3221226647/1.m3u8
-#EXTINF:-1  tvg-name="Infinity" group-title="General",Infinity
+#EXTINF:-1  tvg-name="Infinity" group-title="Kurdi",Infinity
 https://cdn.karwan.tv/infinity-tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ZEVER" tvg-logo="https://i.postimg.cc/Td0jMV4W/ZEVER.png" group-title="KURDISH ",ZEVER
+#EXTINF:-1 tvg-name="ZEVER" tvg-logo="https://i.postimg.cc/Td0jMV4W/ZEVER.png" group-title="Kurdi",ZEVER
 http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8
-#EXTINF:-1  tvg-name="Arifan Sunat" tvg-logo="https://i.postimg.cc/L6dbpjCy/Arifan-Sunat-200.png" group-title="Religious",Arifan Sunat
+#EXTINF:-1  tvg-name="Arifan Sunat" tvg-logo="https://i.postimg.cc/L6dbpjCy/Arifan-Sunat-200.png" group-title="Kurdi",Arifan Sunat
 http://lawandnawzad.com:1935/live/ArifanSunat/playlist.m3u8
-#EXTINF:-1  tvg-name="MMN QURAN" tvg-logo="https://i.postimg.cc/CLV2x1nF/MMN-Quran-200.png" group-title="Religious",MMN QURAN
+#EXTINF:-1  tvg-name="MMN QURAN" tvg-logo="https://i.postimg.cc/CLV2x1nF/MMN-Quran-200.png" group-title="Kurdi",MMN QURAN
 http://mmn.mypsx.net:1935/live/mmnhdquran/chunklist.m3u8
-#EXTINF:-1  tvg-name="Barin Quran" tvg-logo="https://i.postimg.cc/7Zh7tW3j/Barin-Quran-200.jpg" group-title="Religious",Barin Quran
+#EXTINF:-1  tvg-name="Barin Quran" tvg-logo="https://i.postimg.cc/7Zh7tW3j/Barin-Quran-200.jpg" group-title="Kurdi",Barin Quran
 http://baskhd.ddns.net:40/live/QURANHDTV/chunklist.m3u8
-#EXTINF:-1  tvg-name="Zever Quran" tvg-logo="https://i.postimg.cc/R0c0g7Dj/Zever-Quran-200.png" group-title="Religious",Zever Quran
+#EXTINF:-1  tvg-name="Zever Quran" tvg-logo="https://i.postimg.cc/R0c0g7Dj/Zever-Quran-200.png" group-title="Kurdi",Zever Quran
 http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8
-#EXTINF:-1  tvg-name="Esra Quran" tvg-logo="https://i.postimg.cc/CKKvN75K/Esta-Quran-200.jpg" group-title="Religious",Esra Quran
+#EXTINF:-1  tvg-name="Esra Quran" tvg-logo="https://i.postimg.cc/CKKvN75K/Esta-Quran-200.jpg" group-title="Kurdi",Esra Quran
 https://live20.bozztv.com/giatv/giatv-esraquran_kamalblbas/esraquran_kamalblbas/playlist.m3u8
-#EXTINF:-1  tvg-name="Quran Kareem FM" tvg-logo="https://i.postimg.cc/W3rhZPXY/Quran-Kareem-FM-200.png" group-title="Religious",Quran Kareem FM
+#EXTINF:-1  tvg-name="Quran Kareem FM" tvg-logo="https://i.postimg.cc/W3rhZPXY/Quran-Kareem-FM-200.png" group-title="Kurdi",Quran Kareem FM
 https://streaming.zaytonatube.com:8081/holyquran/holyquran/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  tvg-name="Soz Quran" tvg-logo="https://i.postimg.cc/2S8ZkwZR/Soz-Quran-200.png" group-title="Religious",Soz Quran
+#EXTINF:-1  tvg-name="Soz Quran" tvg-logo="https://i.postimg.cc/2S8ZkwZR/Soz-Quran-200.png" group-title="Kurdi",Soz Quran
 https://live20.bozztv.com/giatv/giatv-sozetvq/sozetvq/chunks.m3u8
-#EXTINF:-1  tvg-name="SPI QURAN" tvg-logo="https://i.postimg.cc/kgRGb3FM/SPI-Quran-200.jpg" group-title="Religious",SPI QURAN
+#EXTINF:-1  tvg-name="SPI QURAN" tvg-logo="https://i.postimg.cc/kgRGb3FM/SPI-Quran-200.jpg" group-title="Kurdi",SPI QURAN
 https://live20.bozztv.com/giatv/giatv-spi_quran_hd/spi_quran_hd/chunks.m3u8
-#EXTINF:-1  tvg-name="Shna QURAN" tvg-logo="https://i.postimg.cc/XvFrTSp1/Shna-Quran-200.png" group-title="Religious",Shna QURAN
+#EXTINF:-1  tvg-name="Shna QURAN" tvg-logo="https://i.postimg.cc/XvFrTSp1/Shna-Quran-200.png" group-title="Kurdi",Shna QURAN
 http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
-#EXTINF:-1  tvg-name="Shar QURAN" tvg-logo="https://i.postimg.cc/bNBdrNnF/SHAR-Quran-200.jpg" group-title="Religious",Shar QURAN
+#EXTINF:-1  tvg-name="Shar QURAN" tvg-logo="https://i.postimg.cc/bNBdrNnF/SHAR-Quran-200.jpg" group-title="Kurdi",Shar QURAN
 https://live20.bozztv.com/giatv/giatv-sharqurantv/sharqurantv/chunks.m3u8
-#EXTINF:-1  tvg-name="QURAN Sharjah" tvg-logo="https://i.postimg.cc/6QscV3tq/Sharjah_Tv_Quran_200.jpg" group-title="Religious",QURAN Sharjah
+#EXTINF:-1  tvg-name="QURAN Sharjah" tvg-logo="https://i.postimg.cc/6QscV3tq/Sharjah_Tv_Quran_200.jpg" group-title="Kurdi",QURAN Sharjah
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil//playlist.m3u8
-#EXTINF:-1  tvg-name="Pro Quran" tvg-logo="https://i.postimg.cc/Z5X97KKy/Al-Quran-Pro-200.png" group-title="Religious",Pro Quran
+#EXTINF:-1  tvg-name="Pro Quran" tvg-logo="https://i.postimg.cc/Z5X97KKy/Al-Quran-Pro-200.png" group-title="Kurdi",Pro Quran
 http://tv.ezanvaktipro.com:80/hls/quran.m3u8
-#EXTINF:-1  tvg-name="Iqraa Quran" tvg-logo="https://i.postimg.cc/YS1NfcpH/Iqra-200.png" group-title="Religious",Iqraa Quran
+#EXTINF:-1  tvg-name="Iqraa Quran" tvg-logo="https://i.postimg.cc/YS1NfcpH/Iqra-200.png" group-title="Kurdi",Iqraa Quran
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
-#EXTINF:-1  tvg-name="Al-Majd Holy Quran" tvg-logo="https://i.postimg.cc/tCL3VRhT/Quran-Majid-200.jpg" group-title="Religious",Al-Majd Holy Quran
+#EXTINF:-1  tvg-name="Al-Majd Holy Quran" tvg-logo="https://i.postimg.cc/tCL3VRhT/Quran-Majid-200.jpg" group-title="Kurdi",Al-Majd Holy Quran
 https://edge66.magictvbox.com/liveApple/al_majd/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-name="Naqshi Media" tvg-logo="https://i.postimg.cc/pXwY5xDp/Naqshi-Media-200.jpg" group-title="Religious",Naqshi Media
+#EXTINF:-1  tvg-name="Naqshi Media" tvg-logo="https://i.postimg.cc/pXwY5xDp/Naqshi-Media-200.jpg" group-title="Kurdi",Naqshi Media
 http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
-#EXTINF:-1  tvg-name="Raman" tvg-logo="https://i.postimg.cc/pXr99vx0/Raman-200.png" group-title="Religious",Raman
+#EXTINF:-1  tvg-name="Raman" tvg-logo="https://i.postimg.cc/pXr99vx0/Raman-200.png" group-title="Kurdi",Raman
 http://m3u.4kstrong.me:80/play/live.php?mac=00:1A:79:08:79:9B&stream=1310836&extension=ts&play_token=Uu0lXk0SPQ
-#EXTINF:-1  tvg-name="Macca" tvg-logo="https://i.postimg.cc/Y0kMN7BB/Macca-200.png" group-title="Religious",Macca
+#EXTINF:-1  tvg-name="Macca" tvg-logo="https://i.postimg.cc/Y0kMN7BB/Macca-200.png" group-title="Kurdi",Macca
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1  tvg-name="Guide Us" tvg-logo="https://i.postimg.cc/hvcT3rXQ/Guide-us-tv-200.png" group-title="Religious",Guide Us
+#EXTINF:-1  tvg-name="Guide Us" tvg-logo="https://i.postimg.cc/hvcT3rXQ/Guide-us-tv-200.png" group-title="Kurdi",Guide Us
 https://stream.streamislam.com:443/hls/streamlive/1_2/index.m3u8
-#EXTINF:-1  tvg-name="ZAXO SPORT" tvg-logo="https://i.postimg.cc/zvpb0CVJ/Zaxo-Sport-200.jpg" group-title="KURD SPORT",ZAXO SPORT
+#EXTINF:-1  tvg-name="ZAXO SPORT" tvg-logo="https://i.postimg.cc/zvpb0CVJ/Zaxo-Sport-200.jpg" group-title="Kurdi",ZAXO SPORT
 http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/280431
-#EXTINF:-1  tvg-name=" Duhok Sports" tvg-logo="https://i.postimg.cc/rsS7dLqH/Duhok-Sport-200.jpg" group-title="KURD SPORT",DUHOK SPORT
+#EXTINF:-1  tvg-name=" Duhok Sports" tvg-logo="https://i.postimg.cc/rsS7dLqH/Duhok-Sport-200.jpg" group-title="Kurdi",DUHOK SPORT
 http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129834
 #EXTINF:-1  tvg-name="Animalbox" tvg-logo="https://i.postimg.cc/3J4YLjyn/Animal-Box-200.png" group-title="Documentary",Animal Box
 https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8
@@ -179,144 +179,144 @@ http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129908
 https://live9.karwan.tv/mumahatv/index.m3u8
 #EXTINF:-1  tvg-name="MMN MOVIES" tvg-logo="https://i.postimg.cc/6qDnghgD/MMN-Movies-200.png" group-title="Movies",MMN Movies
 http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist.m3u8
-#EXTINF:-1  tvg-name="IMKQURAN" tvg-logo="https://i.postimg.cc/5t1JNZsR/IMK-Quran-200.jpg" group-title="Religious",IMKQURAN HD
+#EXTINF:-1  tvg-name="IMKQURAN" tvg-logo="https://i.postimg.cc/5t1JNZsR/IMK-Quran-200.jpg" group-title="Kurdi",IMKQURAN HD
 http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
-#EXTINF:-1  tvg-name="Red TV" group-title="General",Red TV
+#EXTINF:-1  tvg-name="Red TV" group-title="Kurdi",Red TV
 http://avrstream.com:1935/live/REDTV/hawezhd.m3u8
-#EXTINF:-1  tvg-name="NUBAR Plus TV " tvg-logo="https://i.postimg.cc/gjdNTLPM/Nubar-200.jpg" group-title="General",NUBAR Plus TV
+#EXTINF:-1  tvg-name="NUBAR Plus TV " tvg-logo="https://i.postimg.cc/gjdNTLPM/Nubar-200.jpg" group-title="Kurdi",NUBAR Plus TV
 http://stream.nubar.tv:1935/private/NUBARPlus/playlist.m3u8
-#EXTINF:-1  tvg-name="Soz" group-title="General",Soz
+#EXTINF:-1  tvg-name="Soz" group-title="Kurdi",Soz
 https://live20.bozztv.com/giatv/giatv-sozetvq/sozetvq/chunks.m3u8
-#EXTINF:-1  tvg-name="Befrin" group-title="General",Befrin
+#EXTINF:-1  tvg-name="Befrin" group-title="Kurdi",Befrin
 http://142.132.133.190:1935/live/befrintv/HawezHD.m3u8
-#EXTINF:-1  tvg-name="Barin Family" tvg-logo="https://karwan.tv/wp-content/uploads/barin-family.png" group-title="General",Barin Family
+#EXTINF:-1  tvg-name="Barin Family" tvg-logo="https://karwan.tv/wp-content/uploads/barin-family.png" group-title="Kurdi",Barin Family
 http://baskhd.ddns.net:40/live/BarinfamilyHD/HawezHD.m3u8
-#EXTINF:-1  tvg-name="Niroj Ayini" tvg-logo="https://i.postimg.cc/FR4YvWSr/Niroj-Ayini.png" group-title="Religious",Niroj Ayini
-http://142.132.133.190:1935/live/niroj_ayini/index.m3u8
-#EXTINF:-1  tvg-name="UTV - 480p" tvg-logo="https://utvhawler.net/images/logo.png" group-title="Religious",UTV - 480p
-https://vsd115.okcdn.ru/hls/3527542770279_16662.m3u8/sig/kUOoninkanQ/expires/1767369797132/srcIp/185.84.70.100/urls/45.136.21.61/clientType/0/srcAg/CHROME/mid/4728653618791/3527542770279_medium/index.m3u8
-#EXTINF:-1  tvg-name="UTV - 720p" tvg-logo="https://utvhawler.net/images/logo.png" group-title="Religious",UTV - 720p
-https://vsd115.okcdn.ru/hls/3527542770279_16662.m3u8/sig/kUOoninkanQ/expires/1767369797132/srcIp/185.84.70.100/urls/45.136.21.61/clientType/0/srcAg/CHROME/mid/4728653618791/3527542770279_high/index.m3u8
-#EXTINF:-1  tvg-name="UTV - 240p" tvg-logo="https://utvhawler.net/images/logo.png" group-title="Religious",UTV - 240p
-https://vsd115.okcdn.ru/hls/3527542770279_16660.m3u8/sig/kUOoninkanQ/expires/1767369797132/srcIp/185.84.70.100/urls/45.136.21.61/clientType/0/srcAg/CHROME/mid/4728653618791/3527542770279_lowest/index.m3u8
+#EXTINF:-1  tvg-name="UTV - 480p" tvg-logo="https://utvhawler.net/images/logo.png" group-title="Kurdi",UTV - 480p
+https://vsd123.okcdn.ru/hls/3527542770279.m3u8/sig/_ug3-N84ubA/expires/1767888954659/srcIp/185.240.17.182/urls/185.226.53.66/clientType/0/srcAg/CHROME/mid/4728653618791/3527542770279_medium/index.m3u8
+#EXTINF:-1  tvg-name="UTV - 360p" tvg-logo="https://utvhawler.net/images/logo.png" group-title="Kurdi",UTV - 360p
+https://vsd123.okcdn.ru/hls/3527542770279.m3u8/sig/_ug3-N84ubA/expires/1767888954659/srcIp/185.240.17.182/urls/185.226.53.66/clientType/0/srcAg/CHROME/mid/4728653618791/3527542770279_low/index.m3u8
+#EXTINF:-1  tvg-name="UTV - 240p" tvg-logo="https://utvhawler.net/images/logo.png" group-title="Kurdi",UTV - 240p
+https://vsd123.okcdn.ru/hls/3527542770279.m3u8/sig/_ug3-N84ubA/expires/1767888954659/srcIp/185.240.17.182/urls/185.226.53.66/clientType/0/srcAg/CHROME/mid/4728653618791/3527542770279_lowest/index.m3u8
 #EXTINF:-1  tvg-name="Mix-kurdy",Mix-kurdy
 http://avrstream.com:1935/live/Mix-kurdy/playlist.m3u8
-#EXTINF:-1 tvg-name="SPEDA" tvg-logo="https://i.postimg.cc/9mK37pfk/SP.png" group-title="KURDISH ",SPEDA
+#EXTINF:-1 tvg-name="SPEDA" tvg-logo="https://i.postimg.cc/9mK37pfk/SP.png" group-title="Kurdi",SPEDA
 http://109.123.245.192/Spedatv/index.m3u8
-#EXTINF:-1 tvg-name="Dunya Hd" tvg-logo="https://i.postimg.cc/HYBpLdHr/6F234CA9-2135-40DF-81A6-B6D3531753CE.png?dl=1" group-title="KURDISH ",Dunya Hd
+#EXTINF:-1 tvg-name="Dunya Hd" tvg-logo="https://i.postimg.cc/HYBpLdHr/6F234CA9-2135-40DF-81A6-B6D3531753CE.png?dl=1" group-title="Kurdi",Dunya Hd
 https://live20.bozztv.com/giatv/giatv-DniaTV/DniaTV/playlist.m3u8
-#EXTINF:-1 tvg-name="زيكرى بەیانیان پێشەوا قادر" tvg-logo="https://i.postimg.cc/Pr4c8rcY/hq720-2.avif" group-title="KURDISH ",زيكرى بەیانیان پێشەوا قادر
+#EXTINF:-1 tvg-name="زيكرى بەیانیان پێشەوا قادر" tvg-logo="https://i.postimg.cc/Pr4c8rcY/hq720-2.avif" group-title="Kurdi",زيكرى بەیانیان پێشەوا قادر
 https://dl23.mp4.ir/video/2025/8/321750-455863615/m3u8/1080p/out.m3u8
-#EXTINF:-1 tvg-name="کەناڵی ئامۆژگاری" tvg-logo="https://amozhgary.tv/style/img/logo.png" group-title="KURDISH ",کەناڵی ئامۆژگاری
+#EXTINF:-1 tvg-name="کەناڵی ئامۆژگاری" tvg-logo="https://amozhgary.tv/style/img/logo.png" group-title="Kurdi",کەناڵی ئامۆژگاری
 https://app-live.org/live/3268334b/index.m3u8
-#EXTINF:-1 tvg-name="ئەکادیمیای ئامۆژگاری" tvg-logo="https://amozhgary.tv/style/img/academy_logo.png" group-title="KURDISH ",ئەکادیمیای ئامۆژگاری
+#EXTINF:-1 tvg-name="ئەکادیمیای ئامۆژگاری" tvg-logo="https://amozhgary.tv/style/img/academy_logo.png" group-title="Kurdi",ئەکادیمیای ئامۆژگاری
 https://app-live.org/live/a267c1b3/index.m3u8
-#EXTINF:-1 tvg-name="Rawshan hd" tvg-logo="https://i.postimg.cc/pTFSvz3m/96-DA4-F87-FCAE-4-AEB-9-F82-B26663-B06539.png" group-title="KURDISH ",Rawshan hd
+#EXTINF:-1 tvg-name="Rawshan hd" tvg-logo="https://i.postimg.cc/pTFSvz3m/96-DA4-F87-FCAE-4-AEB-9-F82-B26663-B06539.png" group-title="Kurdi",Rawshan hd
 http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
-#EXTINF:-1 tvg-name="Sroshty" tvg-logo="https://yt3.googleusercontent.com/5zf0Nk7ILDXD8A-nPmt2UqacTY3DBvYXApU3HV42Znd4W3iBSHhQfImCuZgQIxykUUwFoMtJ=s900-c-k-c0x00ffffff-no-rj" group-title="KURDISH ",Sroshty
+#EXTINF:-1 tvg-name="Sroshty" tvg-logo="https://yt3.googleusercontent.com/5zf0Nk7ILDXD8A-nPmt2UqacTY3DBvYXApU3HV42Znd4W3iBSHhQfImCuZgQIxykUUwFoMtJ=s900-c-k-c0x00ffffff-no-rj" group-title="Kurdi",Sroshty
 https://live9.karwan.tv/Sroshtyusfstore/index.m3u8
-#EXTINF:-1 tvg-name="NRT 2" tvg-logo="https://i.postimg.cc/JRwv9XjG/nrt2-2.png" group-title="KURDISH ",NRT 2
+#EXTINF:-1 tvg-name="NRT 2" tvg-logo="https://i.postimg.cc/JRwv9XjG/nrt2-2.png" group-title="Kurdi",NRT 2
 http://arabitv5.com:8000/baseeeeeeemhh5/8uuMt7qa7eAF/33888
-#EXTINF:-1 tvg-name="NRT 4" tvg-logo="https://i.postimg.cc/594N5G2W/NRT4.png" group-title="KURDISH ",NRT 4
+#EXTINF:-1 tvg-name="NRT 4" tvg-logo="https://i.postimg.cc/594N5G2W/NRT4.png" group-title="Kurdi",NRT 4
 https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
-#EXTINF:-1 tvg-name="GALI KURDISTAN" tvg-logo="https://i.postimg.cc/SmhvBS3N/GK.png" group-title="KURDISH ",GALI KURDISTAN
+#EXTINF:-1 tvg-name="GALI KURDISTAN" tvg-logo="https://i.postimg.cc/SmhvBS3N/GK.png" group-title="Kurdi",GALI KURDISTAN
 https://silicon.kurdlive.xyz/gk/gksat/chunklist_w139999815.m3u8
-#EXTINF:-1 tvg-name="KURDANA" tvg-logo="https://i.postimg.cc/wH3rzSLJ/kurdana.png" group-title="KURDISH ",KURDANA
+#EXTINF:-1 tvg-name="KURDANA" tvg-logo="https://i.postimg.cc/wH3rzSLJ/kurdana.png" group-title="Kurdi",KURDANA
 http://avrstream.com:1935/live/Kurd7HD/Kurd7HD.m3u8
-#EXTINF:-1 tvg-name="Minara FM" tvg-logo="https://i.postimg.cc/y1r0XkCp/minara.png" group-title="KURDISH ",Minara FM
+#EXTINF:-1 tvg-name="Minara FM" tvg-logo="https://i.postimg.cc/y1r0XkCp/minara.png" group-title="Kurdi",Minara FM
 http://bblserver.ddns.net:1935/live/mihrabfm/playlist.m3u8
-#EXTINF:-1 tvg-name="NIROJ-HD" tvg-logo="https://i.postimg.cc/SmHHRqFH/NIROJHD.png" group-title="KURDISH ",NIROJ-HD
+#EXTINF:-1 tvg-name="NIROJ-HD" tvg-logo="https://i.postimg.cc/SmHHRqFH/NIROJHD.png" group-title="Kurdi",NIROJ-HD
 http://142.132.133.190:1935/live/Niroj_HD/index.m3u8
-#EXTINF:-1 tvg-name="graryantv" tvg-logo="https://i.postimg.cc/MKWx9X6z/36667bd9-3911-43aa-8048-1a8efd701216.png" group-title="KURDISH ",graryantv
+#EXTINF:-1 tvg-name="graryantv" tvg-logo="https://i.postimg.cc/MKWx9X6z/36667bd9-3911-43aa-8048-1a8efd701216.png" group-title="Kurdi",graryantv
 https://live20.bozztv.com/giatv/giatv-halabja88garyan/halabja88garyan/chunks.m3u8
-#EXTINF:-1 tvg-name="KURD7" tvg-logo="https://i.postimg.cc/MKWx9X6z/36667bd9-3911-43aa-8048-1a8efd701216.png" group-title="KURDISH ",KURD7
+#EXTINF:-1 tvg-name="KURD7" tvg-logo="https://i.postimg.cc/MKWx9X6z/36667bd9-3911-43aa-8048-1a8efd701216.png" group-title="Kurdi",KURD7
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/graryanfm/chunks.m3u8
-#EXTINF:-1 tvg-name="KALAPUR" tvg-logo="https://i.postimg.cc/kqpWmBkS/kalpr.png" group-title="KURDISH ",KALAPUR
+#EXTINF:-1 tvg-name="KALAPUR" tvg-logo="https://i.postimg.cc/kqpWmBkS/kalpr.png" group-title="Kurdi",KALAPUR
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/kalapurtv/playlist.m3u8
-#EXTINF:-1 tvg-name="Minara TV" tvg-logo="https://i.postimg.cc/Qhn3kMt8/minara-1.png" group-title="KURDISH ",Minara TV
+#EXTINF:-1 tvg-name="Minara TV" tvg-logo="https://i.postimg.cc/Qhn3kMt8/minara-1.png" group-title="Kurdi",Minara TV
 http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
-#EXTINF:-1 tvg-name="SHAISTA" tvg-logo="https://i.postimg.cc/gd8T2Chz/shaista.png" group-title="KURDISH ",SHAISTA
+#EXTINF:-1 tvg-name="SHAISTA" tvg-logo="https://i.postimg.cc/gd8T2Chz/shaista.png" group-title="Kurdi",SHAISTA
 http://avrstream.com:1935/live/ShaistaHD/playlist.m3u8
-#EXTINF:-1 tvg-name="EUROKURD" tvg-logo="https://i.postimg.cc/08Vjd4K2/EKURD.png" group-title="KURDISH ",EUROKURD
+#EXTINF:-1 tvg-name="EUROKURD" tvg-logo="https://i.postimg.cc/08Vjd4K2/EKURD.png" group-title="Kurdi",EUROKURD
 http://baskhd.ddns.net:40/live/Eurokurd/index.m3u8
-#EXTINF:-1 tvg-name="PAYAM TV" tvg-logo="https://i.postimg.cc/tC3M34tL/Pics-Art-25-08-01-14-49-15-229.png" group-title="KURDISH ",PAYAM TV
+#EXTINF:-1 tvg-name="PAYAM TV" tvg-logo="https://i.postimg.cc/tC3M34tL/Pics-Art-25-08-01-14-49-15-229.png" group-title="Kurdi",PAYAM TV
 https://media2.streambrothers.com:1936/8218/8218/kurdtv1.m3u8
-#EXTINF:-1 tvg-name="AFRIN TV FHD" tvg-logo="https://i.postimg.cc/mTrjSq4N/baxcha.png" group-title="KURDISH ",AFRIN TV FHD
+#EXTINF:-1 tvg-name="AFRIN TV FHD" tvg-logo="https://i.postimg.cc/mTrjSq4N/baxcha.png" group-title="Kurdi",AFRIN TV FHD
 http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="LAWAN HD" tvg-logo="https://i.postimg.cc/ry650tZB/lawan-1.png" group-title="KURDISH ",LAWAN HD
+#EXTINF:-1 tvg-name="LAWAN HD" tvg-logo="https://i.postimg.cc/ry650tZB/lawan-1.png" group-title="Kurdi",LAWAN HD
 http://136.243.155.55:8088/Lawanhd/index.m3u8
-#EXTINF:-1 tvg-name="BAHA ENTERTAINMENT" tvg-logo="https://i.postimg.cc/Sqdk22x2/baha.png" group-title="KURDISH ",BAHA ENTERTAINMENT
+#EXTINF:-1 tvg-name="BAHA ENTERTAINMENT" tvg-logo="https://i.postimg.cc/Sqdk22x2/baha.png" group-title="Kurdi",BAHA ENTERTAINMENT
 http://baskhd.ddns.net:40/live/baskhd/yusfstore.m3u8
-#EXTINF:-1 tvg-name="sozetv" tvg-logo="https://i.postimg.cc/xfDMt1tB/SOZ.png" group-title="KURDISH ",sozetv
+#EXTINF:-1 tvg-name="sozetv" tvg-logo="https://i.postimg.cc/xfDMt1tB/SOZ.png" group-title="Kurdi",sozetv
 https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
-#EXTINF:-1 tvg-name="Barin family HD" tvg-logo="https://i.postimg.cc/byWG7G01/BARINF.png" group-title="KURDISH ",Barin family HD
+#EXTINF:-1 tvg-name="Barin family HD" tvg-logo="https://i.postimg.cc/byWG7G01/BARINF.png" group-title="Kurdi",Barin family HD
 http://baskhd.ddns.net:40/live/BarinfamilyHD/HawezHD.m3u8
-#EXTINF:-1 tvg-name="Bnar HD" tvg-logo="https://i.postimg.cc/FrDpZwMT/BNAR.jpg" group-title="KURDISH ",Bnar HD
+#EXTINF:-1 tvg-name="Bnar HD" tvg-logo="https://i.postimg.cc/FrDpZwMT/BNAR.jpg" group-title="Kurdi",Bnar HD
 http://baskhd.ddns.net:40/live/bnar4k/mono.m3u8
-#EXTINF:-1 tvg-name="NEXT TV" tvg-logo="https://i.postimg.cc/Pq9pCfJk/4989-FD6-C-D31-F-45-F2-AF55-FCAB88896-B19.png" group-title="KURDISH ",NEXT TV
+#EXTINF:-1 tvg-name="NEXT TV" tvg-logo="https://i.postimg.cc/Pq9pCfJk/4989-FD6-C-D31-F-45-F2-AF55-FCAB88896-B19.png" group-title="Kurdi",NEXT TV
 http://next.badinan.xyz:1935/nexttv/FHD/playlist.m3u8
-#EXTINF:-1 tvg-name="NEXT TV" tvg-logo="https://i.postimg.cc/MZGBV0bD/NEXT.png" group-title="KURDISH ",NEXT TV
+#EXTINF:-1 tvg-name="NEXT TV" tvg-logo="https://i.postimg.cc/MZGBV0bD/NEXT.png" group-title="Kurdi",NEXT TV
 https://next.badinan.xyz/nexttv/FHD/chunklist_w2146685998.m3u8
-#EXTINF:-1 tvg-name="KANALI 21" tvg-logo="https://i.postimg.cc/sDjky5CZ/photo-2024-12-16-06-33-32.jpg" group-title="KURDISH ",KANALI 21
+#EXTINF:-1 tvg-name="KANALI 21" tvg-logo="https://i.postimg.cc/sDjky5CZ/photo-2024-12-16-06-33-32.jpg" group-title="Kurdi",KANALI 21
 http://k21hd.mypsx.net:40/live/KANALI/playlist.m3u8
-#EXTINF:-1 tvg-name="KORAJARTV" group-title="KURDISH ",KORAJARTV
+#EXTINF:-1 tvg-name="KORAJARTV" group-title="Kurdi",KORAJARTV
 http://avrstream.com:1935/live/KORAJARTV/playlist.m3u8
-#EXTINF:-1 tvg-name="DENGE ZELAL TV" tvg-logo="https://play-lh.googleusercontent.com/jbAHyIv4cEzChzXHBEFcYZ-Zt9APytMoAslTKysNz-I_fVz43VOADziX_nrUbyY7Q_o" group-title="KURDISH ",DENGE ZELAL TV
+#EXTINF:-1 tvg-name="DENGE ZELAL TV" tvg-logo="https://play-lh.googleusercontent.com/jbAHyIv4cEzChzXHBEFcYZ-Zt9APytMoAslTKysNz-I_fVz43VOADziX_nrUbyY7Q_o" group-title="Kurdi",DENGE ZELAL TV
 https://cdn-dengezelaltv.yayin.com.tr/dengezelaltv/dengezelaltv/playlist.m3u8
-#EXTINF:-1 tvg-name="NIROJ HD" tvg-logo="https://i.postimg.cc/x9d9M9ZC/NIROJ.png" group-title="KURDISH ",NIROJ HD
+#EXTINF:-1 tvg-name="NIROJ HD" tvg-logo="https://i.postimg.cc/x9d9M9ZC/NIROJ.png" group-title="Kurdi",NIROJ HD
 http://142.132.133.190:1935/live/Niroj_HD/index.m3u8
-#EXTINF:-1 tvg-name="NR1KURD" tvg-logo="https://i.postimg.cc/2YXTDYhD/NR1.png" group-title="KURDISH ",NR1KURD
+#EXTINF:-1 tvg-name="NR1KURD" tvg-logo="https://i.postimg.cc/2YXTDYhD/NR1.png" group-title="Kurdi",NR1KURD
 https://142.132.133.190:1935/live/NR1_KURD/playlist.m3u8
-#EXTINF:-1 tvg-name="BahraHD" tvg-logo="https://i.postimg.cc/m25rpPwb/photo-2025-11-16-06-14-08.jpg" group-title="KURDISH ",BahraHD
+#EXTINF:-1 tvg-name="BahraHD" tvg-logo="https://i.postimg.cc/m25rpPwb/photo-2025-11-16-06-14-08.jpg" group-title="Kurdi",BahraHD
 http://51.89.152.180/live/BahraHD/chunks.m3u8
-#EXTINF:-1 tvg-name="PESHMARGA TV" tvg-logo="https://i.postimg.cc/81wsh67y/pe-1.png" group-title="KURDISH ",PESHMARGA TV
+#EXTINF:-1 tvg-name="PESHMARGA TV" tvg-logo="https://i.postimg.cc/81wsh67y/pe-1.png" group-title="Kurdi",PESHMARGA TV
 http://142.132.133.190:1935/live/peshmerge/index.m3u8
-#EXTINF:-1  tvg-name="ch4" group-title="News",ch4
+#EXTINF:-1  tvg-name="ch4" group-title="Kurdi",ch4
 http://142.132.133.190:1935/live/Niroj_HD/index.m3u8
-#EXTINF:-1  tvg-name="ch9" group-title="News",ch9
+#EXTINF:-1  tvg-name="ch9" group-title="Kurdi",ch9
 https://live9.karwan.tv/Sroshtyusfstore/index.m3u8
-#EXTINF:-1  tvg-name="ch11" group-title="News",ch11
+#EXTINF:-1  tvg-name="ch11" group-title="Kurdi",ch11
 https://media.streambrothers.com:19360/8116/8116.m3u8
-#EXTINF:-1  tvg-name="ch14" group-title="News",ch14
+#EXTINF:-1  tvg-name="ch14" group-title="Kurdi",ch14
 https://v.redd.it/5eynmp69gj6f1/HLSPlaylist.m3u8
-#EXTINF:-1  tvg-name="ch16" group-title="News",ch16
+#EXTINF:-1  tvg-name="ch16" group-title="Kurdi",ch16
 https://live9.karwan.tv/Asterafmaley/index.m3u8
-#EXTINF:-1  tvg-name="speda" group-title="News",speda
+#EXTINF:-1  tvg-name="speda" group-title="Kurdi",speda
 http://109.123.245.192/Spedatv/index.m3u8
-#EXTINF:-1 tvg-name="NRT HD" tvg-logo="https://i.postimg.cc/yVVqtpnh/NRT.png" group-title="KURDISH ",NRT HD
+#EXTINF:-1 tvg-name="NRT HD" tvg-logo="https://i.postimg.cc/yVVqtpnh/NRT.png" group-title="Kurdi",NRT HD
 http://arabitv5.com:8000/baseeeeeeemhh5/8uuMt7qa7eAF/33888
-#EXTINF:-1 tvg-name="tvkurdi" group-title="KURDISH ",tvkurdi
+#EXTINF:-1 tvg-name="tvkurdi" group-title="Kurdi",tvkurdi
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvkurdi/chunks.m3u8
-#EXTINF:-1  tvg-name="Channel 8 - 360p" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="News",Channel 8 - 360p
+#EXTINF:-1  tvg-name="Channel 8 - 360p" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="Kurdi",Channel 8 - 360p
 https://live.channel8.com/Channel8-Kurdish/tracks-a1/index.fmp4.m3u8
-#EXTINF:-1  tvg-name="Channel 8 - 480p" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="News",Channel 8 - 480p
+#EXTINF:-1  tvg-name="Channel 8 - 480p" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="Kurdi",Channel 8 - 480p
 https://live.channel8.com/Channel8-Kurdish/tracks-a2/index.fmp4.m3u8
-#EXTINF:-1  tvg-name="Channel 8 - 720p" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="News",Channel 8 - 720p
+#EXTINF:-1  tvg-name="Channel 8 - 720p" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="Kurdi",Channel 8 - 720p
 https://live.channel8.com/Channel8-Kurdish/tracks-a3/index.fmp4.m3u8
-#EXTINF:-1  tvg-name="Channel 8 - 1080p" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="News",Channel 8 - 1080p
+#EXTINF:-1  tvg-name="Channel 8 - 1080p" tvg-logo="https://i.postimg.cc/hGbSLSJn/Channel-8-200.jpg" group-title="Kurdi",Channel 8 - 1080p
 https://live.channel8.com/Channel8-Kurdish/tracks-a4/index.fmp4.m3u8
-#EXTINF:-1  tvg-name="NRT" tvg-logo="https://i.postimg.cc/yYZChV5G/Nrtnews_200.jpg" group-title="News",NRT
+#EXTINF:-1  tvg-name="NRT" tvg-logo="https://i.postimg.cc/yYZChV5G/NrtKurdi_200.jpg" group-title="Kurdi",NRT
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
-#EXTINF:-1  tvg-name="Payam" tvg-logo="https://i.postimg.cc/MpBZG0qv/Payam_tv_200.jpg" group-title="News",Payam
+#EXTINF:-1  tvg-name="Payam" tvg-logo="https://i.postimg.cc/MpBZG0qv/Payam_tv_200.jpg" group-title="Kurdi",Payam
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
-#EXTINF:-1  tvg-name="Speda" group-title="News",Speda
+#EXTINF:-1  tvg-name="Speda" group-title="Kurdi",Speda
 https://speda01.site/upload/images/spedahd.m3u8
-#EXTINF:-1 tvg-name="KURDMAX سۆرانی" tvg-logo="https://i.postimg.cc/2zM3CTcM/KURDMAX.png" group-title="KURDISH ",KURDMAX سۆرانی
+#EXTINF:-1 tvg-name="KURDMAX سۆرانی" tvg-logo="https://i.postimg.cc/2zM3CTcM/KURDMAX.png" group-title="Kurdi",KURDMAX سۆرانی
 https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/chunklist_w1862836536.m3u8
-#EXTINF:-1 tvg-name="KURDMAX کرمانجی" tvg-logo="https://i.postimg.cc/2zM3CTcM/KURDMAX.png" group-title="KURDISH ",KURDMAX کرمانجی
+#EXTINF:-1 tvg-name="KURDMAX کرمانجی" tvg-logo="https://i.postimg.cc/2zM3CTcM/KURDMAX.png" group-title="Kurdi",KURDMAX کرمانجی
 https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/chunklist_w600589281.m3u8
-#EXTINF:-1 tvg-name="KURDMAX" tvg-logo="https://i.postimg.cc/zz8cPrbM/kurdmax.png" group-title="KURDISH ",KURDMAX
+#EXTINF:-1 tvg-name="KURDMAX" tvg-logo="https://i.postimg.cc/zz8cPrbM/kurdmax.png" group-title="Kurdi",KURDMAX
 https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/chunklist_w1650756524.m3u8
-#EXTINF:-1  tvg-name="Gawher-Islam" tvg-logo="https://i.postimg.cc/NF2q7GyF/gewher-islam.png" group-title="Religious",Gawher-Islam
+#EXTINF:-1  tvg-name="Gawher-Islam" tvg-logo="https://i.postimg.cc/NF2q7GyF/gewher-islam.png" group-title="Kurdi",Gawher-Islam
 https://live20.bozztv.com/giatv/giatv-gewherislha88/gewherislha88/chunks.m3u8
-#EXTINF:-1  tvg-name="Gawher" tvg-logo="https://i.postimg.cc/qMm9rmZs/Gawher-200.jpg"  group-title="General",GEWHER
+#EXTINF:-1  tvg-name="Gawher" tvg-logo="https://i.postimg.cc/qMm9rmZs/Gawher-200.jpg"  group-title="Kurdi",GEWHER
 http://142.132.133.190:1935/live/Gewher/playlist.m3u8
-#EXTINF:-1  tvg-name="Gawher" tvg-logo="https://i.postimg.cc/qMm9rmZs/Gawher-200.jpg"  group-title="General",GEWHER
+#EXTINF:-1  tvg-name="Gawher" tvg-logo="https://i.postimg.cc/qMm9rmZs/Gawher-200.jpg"  group-title="Kurdi",GEWHER
 https://shawkat-zebari.short.gy/Gewher.m3u8
-#EXTINF:-1  tvg-name="Kurdsat" tvg-logo="https://i.postimg.cc/90fFXvQh/Kurdsat-200.jpg" group-title="General",Kurdsat
-https://iko-live.akamaized.net/KurdsatTV/master.m3u8
-#EXTINF:-1  tvg-name="KURD CHANNEL" tvg-logo="https://i.postimg.cc/26ztX34j/Kurd-channel-200.png" group-title="General",KURD CHANNEL
+#EXTINF:-1  tvg-name="Kurdsat" tvg-logo="https://i.postimg.cc/90fFXvQh/Kurdsat-200.jpg" group-title="Kurdi",Kurdsat
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD-mp4a_128000_eng=20000.m3u8
+#EXTINF:-1  tvg-name="KURD CHANNEL" tvg-logo="https://i.postimg.cc/26ztX34j/Kurd-channel-200.png" group-title="Kurdi",KURD CHANNEL
 https://iko-live.akamaized.net/kurdhd/master.m3u8
+#EXTINF:-1  tvg-name="Niroj Ayini" tvg-logo="https://i.postimg.cc/FR4YvWSr/Niroj-Ayini.png" group-title="Kurdi",Niroj Ayini
+http://142.132.133.190:1935/live/niroj_ayini/index.m3u8
 
 
 
